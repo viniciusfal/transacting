@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-<p> Esse projeto têm regras de negócio semelhantes a uma aplicação bancária; e onde você executa transações pelo <a href="https://insomnia.rest/">insomnia</a> </p>
+<p> Esse projeto têm regras de negócio semelhantes a uma aplicação bancária.Você pode executar essas transações pelo <a href="https://insomnia.rest/">insomnia</a> </p>
 
 -----------
 
